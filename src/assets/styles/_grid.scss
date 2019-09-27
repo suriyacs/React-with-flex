@@ -1,0 +1,59 @@
+.container {
+  width: 100%;
+  @include padding-x(15px);
+}
+
+.row {
+  @include make-row();
+}
+
+@for $i from 1 through $grid-columns {
+  .col-#{$i} {
+    @include make-column($i);
+  }
+}
+
+// Grid size for extra small screens
+@media screen and (min-width: $extra-small-screen-size) {
+  @for $i from 1 through $grid-columns {
+    .col-xs-#{$i} {
+      @include make-column($i);
+    }
+  }
+}
+
+// Grid size for small screens
+@media screen and (min-width: $small-screen-size) {
+  @for $i from 1 through $grid-columns {
+    .col-sm-#{$i} {
+      @include make-column($i);
+    }
+  }
+}
+
+// Grid size for medium screens
+@media screen and (min-width: $medium-screen-size) {
+  @for $i from 1 through $grid-columns {
+    .col-md-#{$i} {
+      @include make-column($i);
+    }
+  }
+}
+
+// Grid size for large screens
+@media screen and (min-width: $large-screen-size) {
+  @for $i from 1 through $grid-columns {
+    .col-lg-#{$i} {
+      @include make-column($i);
+    }
+  }
+}
+
+// Grid size for extra large screens 
+@media screen and (min-width: $extra-large-screen-size) {
+  @for $i from 1 through $grid-columns {
+    .col-xl-#{$i} {
+      @include make-column($i);
+    }
+  }
+}

@@ -1,0 +1,29 @@
+
+// Grid styles start
+
+@mixin make-row() {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@mixin make-column($value, $totalColumn: $grid-columns) {
+  flex: 0 0 percentage($value / $totalColumn);
+  width: percentage($value / $totalColumn);
+  position: relative;
+  min-height: 40px;
+  padding: 10px;
+}
+
+// Grid styles ends
+// Util styles starts
+
+@mixin padding-x($value) {
+  padding-left: $value;
+  padding-right: $value;
+}
+
+@mixin margin-x($value) {
+  margin-left: $value;
+  margin-right: $value;
+}
+// Util styles end
