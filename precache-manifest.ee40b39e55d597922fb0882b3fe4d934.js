@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cef3219d750611efc671fb31f568a943",
+    "revision": "7a897b0f01d92400c4e1abc339f5e1b4",
     "url": "/React-with-flex/index.html"
   },
   {
-    "revision": "a4959495f22bf0553e28",
-    "url": "/React-with-flex/static/css/main.db2eb658.chunk.css"
+    "revision": "8943dc0e0af2d0091cde",
+    "url": "/React-with-flex/static/css/main.929a13d3.chunk.css"
   },
   {
-    "revision": "517d81a898de0fde1e3c",
-    "url": "/React-with-flex/static/js/2.fc4f67c4.chunk.js"
+    "revision": "79e87154f9bb8e41c5b6",
+    "url": "/React-with-flex/static/js/2.69e7d955.chunk.js"
   },
   {
-    "revision": "a4959495f22bf0553e28",
-    "url": "/React-with-flex/static/js/main.d4446a45.chunk.js"
+    "revision": "8943dc0e0af2d0091cde",
+    "url": "/React-with-flex/static/js/main.8db74a66.chunk.js"
   },
   {
     "revision": "4d1f71dbae16aa7be8a3",
@@ -30,6 +30,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c21fa5fbc0508f9fa7f4834f06021186",
     "url": "/React-with-flex/static/media/checkout@2x.c21fa5fb.png"
+  },
+  {
+    "revision": "dcd24b91160b74a75d413333ba322810",
+    "url": "/React-with-flex/static/media/enerspace-logo@2x.dcd24b91.png"
+  },
+  {
+    "revision": "337b73479b281ce228ae03ae0ab581a7",
+    "url": "/React-with-flex/static/media/freshdesk-logo@2x.337b7347.png"
+  },
+  {
+    "revision": "92a9c5962051efc7df85274bffc31e59",
+    "url": "/React-with-flex/static/media/integratedhealthbw-logo@2x.92a9c596.png"
   },
   {
     "revision": "ac51ad8a36d5bab6da11d454bcd06561",
