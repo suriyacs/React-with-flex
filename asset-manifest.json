@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-with-flex/static/css/main.929a13d3.chunk.css",
-    "main.js": "/React-with-flex/static/js/main.8db74a66.chunk.js",
-    "main.js.map": "/React-with-flex/static/js/main.8db74a66.chunk.js.map",
+    "main.css": "/React-with-flex/static/css/main.0f235bc8.chunk.css",
+    "main.js": "/React-with-flex/static/js/main.f5982fee.chunk.js",
+    "main.js.map": "/React-with-flex/static/js/main.f5982fee.chunk.js.map",
     "runtime-main.js": "/React-with-flex/static/js/runtime-main.ffd0743f.js",
     "runtime-main.js.map": "/React-with-flex/static/js/runtime-main.ffd0743f.js.map",
-    "static/js/2.69e7d955.chunk.js": "/React-with-flex/static/js/2.69e7d955.chunk.js",
-    "static/js/2.69e7d955.chunk.js.map": "/React-with-flex/static/js/2.69e7d955.chunk.js.map",
+    "static/js/2.9260c2ec.chunk.js": "/React-with-flex/static/js/2.9260c2ec.chunk.js",
+    "static/js/2.9260c2ec.chunk.js.map": "/React-with-flex/static/js/2.9260c2ec.chunk.js.map",
     "index.html": "/React-with-flex/index.html",
-    "precache-manifest.ee40b39e55d597922fb0882b3fe4d934.js": "/React-with-flex/precache-manifest.ee40b39e55d597922fb0882b3fe4d934.js",
+    "precache-manifest.660c32e7e7d91ec003bc2ed657f65eff.js": "/React-with-flex/precache-manifest.660c32e7e7d91ec003bc2ed657f65eff.js",
     "service-worker.js": "/React-with-flex/service-worker.js",
-    "static/css/main.929a13d3.chunk.css.map": "/React-with-flex/static/css/main.929a13d3.chunk.css.map",
+    "static/css/main.0f235bc8.chunk.css.map": "/React-with-flex/static/css/main.0f235bc8.chunk.css.map",
     "static/media/banner-image@2x.png": "/React-with-flex/static/media/banner-image@2x.ac34edc8.png",
     "static/media/check-mark.svg": "/React-with-flex/static/media/check-mark.2e587174.svg",
     "static/media/checkout@2x.png": "/React-with-flex/static/media/checkout@2x.c21fa5fb.png",
@@ -20,6 +20,7 @@
     "static/media/proximanova-light.otf": "/React-with-flex/static/media/proximanova-light.ac51ad8a.otf",
     "static/media/proximanova-regular.otf": "/React-with-flex/static/media/proximanova-regular.bf9f5d50.otf",
     "static/media/proximanova-semibold.otf": "/React-with-flex/static/media/proximanova-semibold.f14eee64.otf",
-    "static/media/proximanova-semibolditalic.otf": "/React-with-flex/static/media/proximanova-semibolditalic.1e378969.otf"
+    "static/media/proximanova-semibolditalic.otf": "/React-with-flex/static/media/proximanova-semibolditalic.1e378969.otf",
+    "static/media/index.scss": "/React-with-flex/static/media/roboto.light.46e48ce0.ttf"
   }
 }

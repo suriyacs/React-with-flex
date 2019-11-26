@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a897b0f01d92400c4e1abc339f5e1b4",
+    "revision": "f532a803f8af491470a170c00ccf6ac0",
     "url": "/React-with-flex/index.html"
   },
   {
-    "revision": "8943dc0e0af2d0091cde",
-    "url": "/React-with-flex/static/css/main.929a13d3.chunk.css"
+    "revision": "4e76c8e6cfd433cb2f66",
+    "url": "/React-with-flex/static/css/main.0f235bc8.chunk.css"
   },
   {
-    "revision": "79e87154f9bb8e41c5b6",
-    "url": "/React-with-flex/static/js/2.69e7d955.chunk.js"
+    "revision": "10710d7af96c5775e7ba",
+    "url": "/React-with-flex/static/js/2.9260c2ec.chunk.js"
   },
   {
-    "revision": "8943dc0e0af2d0091cde",
-    "url": "/React-with-flex/static/js/main.8db74a66.chunk.js"
+    "revision": "4e76c8e6cfd433cb2f66",
+    "url": "/React-with-flex/static/js/main.f5982fee.chunk.js"
   },
   {
     "revision": "4d1f71dbae16aa7be8a3",
@@ -58,5 +58,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1e378969cd70396aaadd59f9a7a5ab18",
     "url": "/React-with-flex/static/media/proximanova-semibolditalic.1e378969.otf"
+  },
+  {
+    "revision": "46e48ce0628835f68a7369d0254e4283",
+    "url": "/React-with-flex/static/media/roboto.light.46e48ce0.ttf"
   }
 ]);
