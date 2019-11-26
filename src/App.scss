@@ -4,25 +4,14 @@
 
 .App {
   text-align: center;
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   font-size: 18px;
-  color: white;
-  .App-header {
-    font-size: 20px;
-    width: 100%;
-    min-height: 50px;
-    padding: 20px;
-  }
+  color: $white; 
 
   .content-container {
     min-height: 100vh;
-  }
-
-  .c-pointer {
-    cursor: pointer;
   }
 }
 

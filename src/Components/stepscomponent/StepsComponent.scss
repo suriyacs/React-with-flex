@@ -1,0 +1,41 @@
+@import '../../assets/styles/variable';
+@import '../../assets/styles/cosmetic';
+@import '../../assets/styles/grid';
+
+.steps-component-section {
+    color: $white;
+    min-height: 200px;
+    background-color: $steps-section-background;
+    justify-content: center;
+    .title-section {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        .title-word {
+            padding-top: 20px;
+            padding-bottom: 10px;
+            font-size: 24px;
+            color: $app-font;
+        }        
+    }
+    .steps {
+        justify-content: center;
+        .step {
+            min-height: 36px;
+            min-width: 45px;
+            align-items: center;
+            border: 1px solid;
+            border-radius: 15px;
+            justify-content: center;
+            display: flex;
+            font-family: ProximaNova-Light;
+            font-size: 19px;
+            color: $app-font;
+            &.last-step {
+                background-color: $app-font;
+                color: #0F334F;
+                border: none;
+            }
+        }
+    }
+}

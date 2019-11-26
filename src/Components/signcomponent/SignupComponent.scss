@@ -1,0 +1,67 @@
+@import '../../assets/styles/variable';
+@import '../../assets/styles/cosmetic';
+@import '../../assets/styles/grid';
+
+.sign-up-section {
+    @include padding(10px);
+    justify-content: center;
+    .App-header {
+      font-size: 36px;
+      color: $app-header !important;
+      width: 100%;
+      min-height: 50px;
+      padding: 20px;
+      font-family: ProximaNova-Semibold;
+    }
+    .App-info {
+      max-width: 400px;
+      font-family: ProximaNova-Light;
+      font-size: 18px;
+      color: #666666;
+      line-height: 134%;
+    }
+    .banner-section {
+      align-items: center;
+      justify-content: center;
+      .banner-icon {
+        max-height: 207px;
+        max-width: 229px;
+      }
+      .banner-common-font {
+        font-family: ProximaNova-SemiboldIt;
+        font-size: 20px;
+        color: $pay-amazon-text;
+        &.charge-bee {
+          color: $chargebee-text;
+          text-align: right;
+        }
+      }
+    }
+    .sign-up-section {
+      .sign-up-btn {
+        min-height: 60px;
+        min-width: 275px;
+        background-color: $sign-btn-background;
+        border: none;
+        border-radius: 4px;
+        font-family: ProximaNova-Semibold;
+        font-size: 18px;
+        color: $white;
+        box-shadow: 0px 0px 4px $sign-btn-shadow;
+      }
+    }
+    .see-experience {
+      max-width: 250px;
+      font-family: ProximaNova-Light;
+      font-size: 16px;
+      color: #646464;
+      line-height: 134%;
+    }
+    .scroll-down-section {
+      .banner-arrow {
+        height: 38px;
+        width: 38px;
+        color: #646464;
+      }
+    }
+}

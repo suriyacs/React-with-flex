@@ -1,0 +1,56 @@
+@import '../../assets/styles/variable';
+@import '../../assets/styles/cosmetic';
+@import '../../assets/styles/grid';
+
+.checkout-section {    
+    min-height: 300px;
+    justify-content: center;
+    .image-section {
+        padding-top: 0px;
+        max-width: 500px;
+        .phone-grid {
+            padding-top: 0px;            
+            .icon-section {
+                border: 1px solid;
+                border-style: dashed;
+                border-top: none;
+                border-bottom-left-radius: 50px;
+                border-bottom-right-radius: 50px;
+                max-height: 580px;
+                max-width: 360px;
+            }
+            .button-section {
+                border-radius: 50%;
+                height: 47px;
+                width: 47px;
+                border: 1px solid;
+                margin-top: 25px;
+                margin-bottom: 25px;
+                position: relative;
+                left: 42%;
+            }
+        }
+        .checkout-icon {
+            max-height: 475px;
+            max-width: 320px;
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+    }
+    .customer-portal {
+        display: block;
+        .content {
+            text-align: left;
+            align-items: center;
+            align-content: center;
+            height: 100%;
+            font-size: 36px;
+            font-family: ProximaNova-Semibold;
+            color: $app-font;
+            .description {
+                font-size: 20px;                
+                opacity: 0.6;
+            }
+        }
+    }
+}

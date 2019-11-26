@@ -20,6 +20,10 @@
       @include make-column($i);
     }
   }
+  .banner-icon {
+    max-height: 107px;
+    max-width: 107px;
+  }
 }
 
 // Grid size for small screens
@@ -29,6 +33,43 @@
       @include make-column($i);
     }
   }
+  .set-background {
+    background-color: #04344f;
+  }
+}
+
+@media screen and (max-width: $small-screen-size) {
+  .banner-icon {
+    max-height: 107px !important;
+    max-width: 107px !important;
+  }
+  .banner-common-font {
+    font-size: 13px !important;
+  }
+
+  .hidden-sm-up {
+    display: none!important;
+  }
+
+  .checkout-icon {
+    max-width: 250px !important;
+  }
+
+  .hide-sm {
+    display: none !important;
+  }
+
+  .client-logo {
+    width: 80px !important;
+  }
+
+  .d-m-none {
+    display: none;
+  }
+
+  .d-m-show {
+    display: block;
+  }
 }
 
 // Grid size for medium screens
@@ -37,6 +78,21 @@
     .col-md-#{$i} {
       @include make-column($i);
     }
+  }
+  .phone-grid {
+    @include padding-x(45px);
+  }
+
+  .checkout-section {
+    padding-bottom: 65px;
+  }
+
+  .offset-md-1 {
+    margin-left: 8.333333%;
+  }
+  
+  .offset-md-2 {
+    margin-left: 16%;
   }
 }
 

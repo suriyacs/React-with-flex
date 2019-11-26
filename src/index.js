@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.scss';
+import './assets/fonts/proximanova-regular.otf';
+import './assets/fonts/proximanova-semibold.otf';
+import './assets/fonts/proximanova-semibolditalic.otf';
+import './assets/fonts/proximanova-light.otf';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
