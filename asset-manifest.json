@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/suriyacs/React-with-flex/static/css/main.e863126e.chunk.css",
-    "main.js": "/suriyacs/React-with-flex/static/js/main.339d79e5.chunk.js",
-    "main.js.map": "/suriyacs/React-with-flex/static/js/main.339d79e5.chunk.js.map",
-    "runtime-main.js": "/suriyacs/React-with-flex/static/js/runtime-main.f3439d10.js",
-    "runtime-main.js.map": "/suriyacs/React-with-flex/static/js/runtime-main.f3439d10.js.map",
-    "static/js/2.8ed4be94.chunk.js": "/suriyacs/React-with-flex/static/js/2.8ed4be94.chunk.js",
-    "static/js/2.8ed4be94.chunk.js.map": "/suriyacs/React-with-flex/static/js/2.8ed4be94.chunk.js.map",
-    "index.html": "/suriyacs/React-with-flex/index.html",
-    "precache-manifest.2f12a520e42c8756b4ed50001b4cfc02.js": "/suriyacs/React-with-flex/precache-manifest.2f12a520e42c8756b4ed50001b4cfc02.js",
-    "service-worker.js": "/suriyacs/React-with-flex/service-worker.js",
-    "static/css/main.e863126e.chunk.css.map": "/suriyacs/React-with-flex/static/css/main.e863126e.chunk.css.map",
-    "static/media/banner-image@2x.png": "/suriyacs/React-with-flex/static/media/banner-image@2x.ac34edc8.png",
-    "static/media/logo.svg": "/suriyacs/React-with-flex/static/media/logo.25bf045c.svg",
-    "static/media/proximanova-light.otf": "/suriyacs/React-with-flex/static/media/proximanova-light.ac51ad8a.otf",
-    "static/media/proximanova-regular.otf": "/suriyacs/React-with-flex/static/media/proximanova-regular.bf9f5d50.otf",
-    "static/media/proximanova-semibold.otf": "/suriyacs/React-with-flex/static/media/proximanova-semibold.f14eee64.otf",
-    "static/media/proximanova-semibolditalic.otf": "/suriyacs/React-with-flex/static/media/proximanova-semibolditalic.1e378969.otf"
+    "main.css": "/React-with-flex/static/css/main.af80c892.chunk.css",
+    "main.js": "/React-with-flex/static/js/main.c8f905fb.chunk.js",
+    "main.js.map": "/React-with-flex/static/js/main.c8f905fb.chunk.js.map",
+    "runtime-main.js": "/React-with-flex/static/js/runtime-main.ffd0743f.js",
+    "runtime-main.js.map": "/React-with-flex/static/js/runtime-main.ffd0743f.js.map",
+    "static/js/2.8ed4be94.chunk.js": "/React-with-flex/static/js/2.8ed4be94.chunk.js",
+    "static/js/2.8ed4be94.chunk.js.map": "/React-with-flex/static/js/2.8ed4be94.chunk.js.map",
+    "index.html": "/React-with-flex/index.html",
+    "precache-manifest.8c8320971aa1927fce1f2e11170a0ef2.js": "/React-with-flex/precache-manifest.8c8320971aa1927fce1f2e11170a0ef2.js",
+    "service-worker.js": "/React-with-flex/service-worker.js",
+    "static/css/main.af80c892.chunk.css.map": "/React-with-flex/static/css/main.af80c892.chunk.css.map",
+    "static/media/banner-image@2x.png": "/React-with-flex/static/media/banner-image@2x.ac34edc8.png",
+    "static/media/logo.svg": "/React-with-flex/static/media/logo.25bf045c.svg",
+    "static/media/proximanova-light.otf": "/React-with-flex/static/media/proximanova-light.ac51ad8a.otf",
+    "static/media/proximanova-regular.otf": "/React-with-flex/static/media/proximanova-regular.bf9f5d50.otf",
+    "static/media/proximanova-semibold.otf": "/React-with-flex/static/media/proximanova-semibold.f14eee64.otf",
+    "static/media/proximanova-semibolditalic.otf": "/React-with-flex/static/media/proximanova-semibolditalic.1e378969.otf"
   }
 }
