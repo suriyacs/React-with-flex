@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/suriyacs/React-with-flex/static/css/main.e863126e.chunk.css",
+    "main.js": "/suriyacs/React-with-flex/static/js/main.339d79e5.chunk.js",
+    "main.js.map": "/suriyacs/React-with-flex/static/js/main.339d79e5.chunk.js.map",
+    "runtime-main.js": "/suriyacs/React-with-flex/static/js/runtime-main.f3439d10.js",
+    "runtime-main.js.map": "/suriyacs/React-with-flex/static/js/runtime-main.f3439d10.js.map",
+    "static/js/2.8ed4be94.chunk.js": "/suriyacs/React-with-flex/static/js/2.8ed4be94.chunk.js",
+    "static/js/2.8ed4be94.chunk.js.map": "/suriyacs/React-with-flex/static/js/2.8ed4be94.chunk.js.map",
+    "index.html": "/suriyacs/React-with-flex/index.html",
+    "precache-manifest.2f12a520e42c8756b4ed50001b4cfc02.js": "/suriyacs/React-with-flex/precache-manifest.2f12a520e42c8756b4ed50001b4cfc02.js",
+    "service-worker.js": "/suriyacs/React-with-flex/service-worker.js",
+    "static/css/main.e863126e.chunk.css.map": "/suriyacs/React-with-flex/static/css/main.e863126e.chunk.css.map",
+    "static/media/banner-image@2x.png": "/suriyacs/React-with-flex/static/media/banner-image@2x.ac34edc8.png",
+    "static/media/logo.svg": "/suriyacs/React-with-flex/static/media/logo.25bf045c.svg",
+    "static/media/proximanova-light.otf": "/suriyacs/React-with-flex/static/media/proximanova-light.ac51ad8a.otf",
+    "static/media/proximanova-regular.otf": "/suriyacs/React-with-flex/static/media/proximanova-regular.bf9f5d50.otf",
+    "static/media/proximanova-semibold.otf": "/suriyacs/React-with-flex/static/media/proximanova-semibold.f14eee64.otf",
+    "static/media/proximanova-semibolditalic.otf": "/suriyacs/React-with-flex/static/media/proximanova-semibolditalic.1e378969.otf"
+  }
+}
