@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8058fc4a4ef4989126c09d191ff40cff",
+    "revision": "0ad7c111bdb0f855073d58a77399e1fa",
     "url": "/React-with-flex/index.html"
   },
   {
-    "revision": "a9f1352ff49bf9895352",
-    "url": "/React-with-flex/static/css/main.af80c892.chunk.css"
+    "revision": "f2b98021d4aba88fdc64",
+    "url": "/React-with-flex/static/css/main.5fa0d38f.chunk.css"
   },
   {
-    "revision": "94f561b8447b2a5ba154",
-    "url": "/React-with-flex/static/js/2.8ed4be94.chunk.js"
+    "revision": "e2927073ac68f50a20ce",
+    "url": "/React-with-flex/static/js/2.690f52c6.chunk.js"
   },
   {
-    "revision": "a9f1352ff49bf9895352",
-    "url": "/React-with-flex/static/js/main.c8f905fb.chunk.js"
+    "revision": "f2b98021d4aba88fdc64",
+    "url": "/React-with-flex/static/js/main.8ba313a2.chunk.js"
   },
   {
     "revision": "4d1f71dbae16aa7be8a3",
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-with-flex/static/media/banner-image@2x.ac34edc8.png"
   },
   {
-    "revision": "25bf045ca257e971124f3997d89f321c",
-    "url": "/React-with-flex/static/media/logo.25bf045c.svg"
+    "revision": "c21fa5fbc0508f9fa7f4834f06021186",
+    "url": "/React-with-flex/static/media/checkout@2x.c21fa5fb.png"
   },
   {
     "revision": "ac51ad8a36d5bab6da11d454bcd06561",
